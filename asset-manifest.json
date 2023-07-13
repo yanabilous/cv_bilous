@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/yanabilous/cv_bilous/static/css/main.b1c6a6a6.css",
-    "main.js": "/yanabilous/cv_bilous/static/js/main.8ba48cd0.js",
-    "static/media/p3.png": "/yanabilous/cv_bilous/static/media/p3.088164daa54e76800abc.png",
-    "static/media/img.PNG": "/yanabilous/cv_bilous/static/media/img.efae1a0c2fbc4432f78c.PNG",
-    "static/media/p1.png": "/yanabilous/cv_bilous/static/media/p1.4c076215ec499f0cd1b3.png",
-    "static/media/p4.png": "/yanabilous/cv_bilous/static/media/p4.4a8fc1f754c2bfac796d.png",
-    "static/media/p2.png": "/yanabilous/cv_bilous/static/media/p2.c4f978a28ca8cbbe641f.png",
-    "static/media/p7.png": "/yanabilous/cv_bilous/static/media/p7.d8c0ad1e7214c57c55f5.png",
-    "static/media/Logo (1).svg": "/yanabilous/cv_bilous/static/media/Logo (1).b715f919c2a5d911bfc47e5d47c88cf9.svg",
-    "index.html": "/yanabilous/cv_bilous/index.html",
-    "static/media/Telegram_(software)-Logo.wine.svg": "/yanabilous/cv_bilous/static/media/Telegram_(software)-Logo.wine.ec4d28b0dd0f2b1fd4a9fe3e41cacdaa.svg",
-    "main.b1c6a6a6.css.map": "/yanabilous/cv_bilous/static/css/main.b1c6a6a6.css.map",
-    "main.8ba48cd0.js.map": "/yanabilous/cv_bilous/static/js/main.8ba48cd0.js.map"
+    "main.css": "/cv_bilous/static/css/main.b1c6a6a6.css",
+    "main.js": "/cv_bilous/static/js/main.504c34f2.js",
+    "static/media/p3.png": "/cv_bilous/static/media/p3.088164daa54e76800abc.png",
+    "static/media/img.PNG": "/cv_bilous/static/media/img.efae1a0c2fbc4432f78c.PNG",
+    "static/media/p1.png": "/cv_bilous/static/media/p1.4c076215ec499f0cd1b3.png",
+    "static/media/p4.png": "/cv_bilous/static/media/p4.4a8fc1f754c2bfac796d.png",
+    "static/media/p2.png": "/cv_bilous/static/media/p2.c4f978a28ca8cbbe641f.png",
+    "static/media/p7.png": "/cv_bilous/static/media/p7.d8c0ad1e7214c57c55f5.png",
+    "static/media/Logo (1).svg": "/cv_bilous/static/media/Logo (1).b715f919c2a5d911bfc47e5d47c88cf9.svg",
+    "index.html": "/cv_bilous/index.html",
+    "static/media/Telegram_(software)-Logo.wine.svg": "/cv_bilous/static/media/Telegram_(software)-Logo.wine.ec4d28b0dd0f2b1fd4a9fe3e41cacdaa.svg",
+    "main.b1c6a6a6.css.map": "/cv_bilous/static/css/main.b1c6a6a6.css.map",
+    "main.504c34f2.js.map": "/cv_bilous/static/js/main.504c34f2.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c6a6a6.css",
-    "static/js/main.8ba48cd0.js"
+    "static/js/main.504c34f2.js"
   ]
 }
