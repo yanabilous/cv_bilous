@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cv_bilous/static/css/main.b1c6a6a6.css",
-    "main.js": "/cv_bilous/static/js/main.2c8f7ecf.js",
+    "main.js": "/cv_bilous/static/js/main.f40944bc.js",
     "static/media/p3.png": "/cv_bilous/static/media/p3.088164daa54e76800abc.png",
     "static/media/img.PNG": "/cv_bilous/static/media/img.efae1a0c2fbc4432f78c.PNG",
     "static/media/p1.png": "/cv_bilous/static/media/p1.4c076215ec499f0cd1b3.png",
@@ -12,10 +12,10 @@
     "index.html": "/cv_bilous/index.html",
     "static/media/Telegram_(software)-Logo.wine.svg": "/cv_bilous/static/media/Telegram_(software)-Logo.wine.ec4d28b0dd0f2b1fd4a9fe3e41cacdaa.svg",
     "main.b1c6a6a6.css.map": "/cv_bilous/static/css/main.b1c6a6a6.css.map",
-    "main.2c8f7ecf.js.map": "/cv_bilous/static/js/main.2c8f7ecf.js.map"
+    "main.f40944bc.js.map": "/cv_bilous/static/js/main.f40944bc.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c6a6a6.css",
-    "static/js/main.2c8f7ecf.js"
+    "static/js/main.f40944bc.js"
   ]
 }
